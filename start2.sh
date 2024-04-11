@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ ! -d "Fooocus" ]; then
-  git clone https://github.com/metercai/SimpleSDXL.git
+  git clone https://github.com/lingfengxiaozhu/Fooocus.git
 fi
 
 cd Fooocus
